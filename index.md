@@ -1,6 +1,8 @@
 # first level heading
 *italics* and **bold**, or ***both, even***
-~~a strikethrough~~ and the <sub>itsy<\sub> <sup>bitsy<\sup> spider.
+
+~~a strikethrough~~ and the <sub>itsy</sub> <sup>bitsy</sup> spider.
+
 > a quote from a very important person, probably
 
 ```
